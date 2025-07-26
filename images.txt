@@ -1,6 +1,6 @@
-nginx
+sonarqube
 #支持私库
-docker.io/library/sonarqube:latest
+docker.io/library/sonarqube
 xhofe/alist:latest
 #支持指定架构3
 --platform=linux/arm64
