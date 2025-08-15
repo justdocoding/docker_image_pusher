@@ -1,6 +1,6 @@
 mysql
 #支持私库
-docker.io/library/mysql
+docker.io/library/centos7:centos
 centos7-liu
 #支持指定架构31
 --platform=linux/arm64
