@@ -1,5 +1,6 @@
 centos7
 #支持私库
 https://registry-1.docker.io/v2/library/centos/manifests/centos7.9.2009
+centos7-liu
 #支持指定架构31
 --platform=linux/arm64
