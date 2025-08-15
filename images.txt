@@ -1,4 +1,4 @@
-mysql
+centos-7
 #支持私库
 docker.io/library/centos7:centos
 centos7-liu
