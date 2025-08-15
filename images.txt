@@ -1,6 +1,6 @@
-centos-7
+centos
 #支持私库
-docker.io/library/centos7:centos
+docker.io/library/centos7
 centos7-liu
 #支持指定架构31
 --platform=linux/arm64
