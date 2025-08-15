@@ -1,6 +1,6 @@
 sonarqube
 #支持私库
-docker.io/library/redis
+docker.io/library/centos7
 xhofe/alist:latest
 #支持指定架构3
 --platform=linux/arm64
