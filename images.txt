@@ -1,4 +1,4 @@
-centos
+centos7
 #支持私库
 docker.io/library/centos:centos7.9.200
 centos7-liu
