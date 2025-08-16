@@ -1,6 +1,6 @@
 centos:stream8
 #支持私库
 #docker.io/library/centos8:latest
-centos:stream8
+#centos:stream8
 #支持指定架构31
 --platform=linux/arm64
