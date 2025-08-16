@@ -1,6 +1,6 @@
 centos
 #支持私库
 #docker.io/library/centos8:latest
-centos8:latest
+centos8
 #支持指定架构31
 --platform=linux/arm64
