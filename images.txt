@@ -1,6 +1,6 @@
-centos8
+centos
 #支持私库
-docker.io/library/centos:centos8
-centos7-liu
+#docker.io/library/centos8:latest
+centos8:latest
 #支持指定架构31
 --platform=linux/arm64
